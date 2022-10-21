@@ -1,0 +1,2 @@
+# singletonExample
+Singleton
